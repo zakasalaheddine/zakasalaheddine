@@ -6,7 +6,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working for myself Freelancing;
-- 🌱 I’m currently learning Animations on React Native; 
+- 🌱 I’m currently learning about DevOps; 
 - 👯 I’m looking to collaborate on DevPost;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
