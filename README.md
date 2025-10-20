@@ -1,22 +1,66 @@
-Hi 👋 My name is ZAKA Salah Eddine
-==================================
 
-Front-End Developer | Next.js Specialist | Headless CMS Developer
------------------------------------------------------------------
+# 👋 Hey, I'm Zaka
 
-* 🌍  I'm based in Meknes - Morocco
-* 🖥️  See my portfolio at [ZAKADEV](http://zakadev.com)
-* ✉️  You can contact me at [salaheddine@zakadev.com](mailto:salaheddine@zakadev.com)
-* 🚀  I'm currently working on [Interlincx](http://www.interlincx.com/)
-* 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on Solana NFTs
+🚀 **Full-Stack Engineer** • 💡 **AI Integrator** • 🌍 Based in **Tangier, Morocco**
 
-<a href="https://www.twitter.com/ZakaSalahEddine" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ZakaSalahEddine?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+I build modern web applications that bridge **AI**, **automation**, and **developer experience**.  
+Currently crafting **SaaS tools**, **React/Next.js components**, and **AI-powered platforms** for real-world impact.
 
+---
 
-### Socials
+### 🧠 What I Do
 
-<p align="left"> <a href="https://discord.com/users/dubsestep#2586" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/zakasalaheddine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zakasalaheddine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zakasalaheddine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ZakaSalahEddine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 🧩 **Front-End Engineering** — Next.js, React, TailwindCSS, Framer Motion  
+- ⚙️ **Back-End Development** — Node.js, Prisma, PostgreSQL, Hono  
+- 🤖 **AI Integrations** — OpenAI, n8n, and automation workflows  
+- 🧱 **SaaS Architecture** — From idea → MVP → production  
+- 🧭 **Freelancing & Product Building** — Turning client needs into scalable systems  
+
+---
+
+### 🛠️ Current Focus
+
+- Building **HookNova** → Developer tools for front-end engineers (JSON utilities, React hooks, UI tools, and SaaS ideas)  
+- Developing **AI agents** that generate **HTML/CSS/JS templates** using Mustache and utility-class logic  
+- Creating **starter projects** with TurboRepo and modern backends like PayloadCMS & Strapi  
+- Helping local devs go **From Junior → Job-Ready** through workshops & portfolio-driven learning  
+
+---
+
+### 🧩 Tech Stack
+
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Framer Motion |
+| **Backend** | Node.js, Hono, Prisma, PostgreSQL, tRPC |
+| **AI / Automation** | OpenAI, n8n, LangChain |
+| **DevOps** | Vercel, Docker, GitHub Actions |
+| **Other** | Clerk, Zod, Stripe, TurboRepo |
+
+---
+
+### 📈 My Side Projects
+
+- 🧰 **HookNova** — Tools for front-end engineers  
+- 🧭 **Directory for Morocco 2030** — Helping travelers find verified local businesses  
+- 🧑‍💻 **AI Workflow Studio** — Automating front-end generation with schema-driven AI  
+- 🧩 **Upwork Chrome Assistant** — Analyze jobs & craft proposals with AI  
+
+---
+
+### 💬 Connect With Me
+
+- 🌐 [Portfolio](http://zakadev.com)  
+- 🐦 [Twitter](https://www.twitter.com/ZakaSalahEddine)  
+- 💼 [LinkedIn](https://linkedin.com/in/zakasalaheddine)  
+- 📧 [Email](mailto:zakasalaheddine@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+I’m always blending **code + creativity**, from automating workflows with AI agents to mentoring devs through real-world projects.
+
+---
+
+⭐️ _"Build fast. Automate smart. Share what you learn."_ — Zaka
 
