@@ -18,12 +18,9 @@ Currently crafting **SaaS tools**, **React/Next.js components**, and **AI-powere
 
 ---
 
-### 🛠️ Current Focus
+### My Work Github Contributions
 
-- Building **HookNova** → Developer tools for front-end engineers (JSON utilities, React hooks, UI tools, and SaaS ideas)  
-- Developing **AI agents** that generate **HTML/CSS/JS templates** using Mustache and utility-class logic  
-- Creating **starter projects** with TurboRepo and modern backends like PayloadCMS & Strapi  
-- Helping local devs go **From Junior → Job-Ready** through workshops & portfolio-driven learning  
+![GitHub Contribution Grid](https://ghchart.rshah.org/salaheddinezaka)
 
 ---
 
